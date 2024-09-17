@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite failures="0" errors="0" skipped="0" tests="1" time="26.629661" name="Pedidos">
+<testcase classname="Pedidos" name="Compra bem sucedida" time="26.629661">
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[2024-09-17 12:09:50 INFO Selenium [:logger_info] Details on how to use and modify Selenium logger:
+  https://selenium.dev/documentation/webdriver/troubleshooting/logging
+
+2024-09-17 12:09:50 WARN Selenium [:clear_session_storage] [DEPRECATION] clear_session_storage is deprecated and will be removed in a future release. 
+2024-09-17 12:09:50 WARN Selenium [:clear_local_storage] [DEPRECATION] clear_local_storage is deprecated and will be removed in a future release. 
+]]>
+  </system-err>
+</testcase>
+</testsuite>
