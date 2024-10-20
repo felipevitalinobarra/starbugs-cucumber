@@ -13,3 +13,21 @@ O foco principal deste projeto é a aplicação dos conceitos de BDD para melhor
 - **BDD** (Behavior-Driven Development)
 - **Gherkin**
 - **Cucumber**
+
+---
+
+# Starbugs Project
+
+Welcome to the **Starbugs** project!
+
+This project was developed by **QAx** with the goal of enhancing skills in **BDD** (Behavior-Driven Development), **Gherkin**, and **Cucumber**.
+
+## Objective
+
+The main focus of this project is the application of BDD concepts to improve development and ensure that the software meets the requirements clearly and efficiently.
+
+## Technologies Used
+
+- **BDD** (Behavior-Driven Development)
+- **Gherkin**
+- **Cucumber**
